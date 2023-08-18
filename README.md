@@ -14,11 +14,11 @@ Hi there 👋
 </div>
  
 <div>
-    <a href="https://www.linkedin.com/in/jeremias-arriondo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/jeremias-arriondo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  ![Snake animation](https://github.com/JeremiasArriondo/JeremiasArriondo/blob/output/github-contribution-grid-snake.svg)
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JeremiasArriondo/JeremiasArriondo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/JeremiasArriondo/JeremiasArriondo/blob/output/github-contribution-grid-snake.svg)" />
+     <img alt="github contribution grid snake animation" src="https://github.com/JeremiasArriondo/JeremiasArriondo/blob/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
